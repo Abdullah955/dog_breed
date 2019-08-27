@@ -28,7 +28,14 @@ installing packages:
     pip install keras
     pip install glob
     pip install sklearn
+
     
+Model summery :
+
+![Screenshot](model.png)
+
+    
+
     
 The algorithm will be used to detect the human faces and dogs in an image 
 
