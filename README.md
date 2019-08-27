@@ -2,7 +2,7 @@ Dog breed project: this project is aimd to detect the human and dogs from images
 
 
 
-![ScreenShot](https://{dog.png})
+![alt text](http://dog.png)
 
 The Road Ahead
 
