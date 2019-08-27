@@ -3,7 +3,6 @@ Dog breed project: this project is aimd to detect the human and dogs from images
 
 In this real-world setting, you will need to piece together a series of models to perform different tasks; for instance, the algorithm that detects humans in an image will be different from the CNN that infers dog breed. There are many points of possible failure, and no perfect algorithm exists. Your imperfect solution will nonetheless create a fun user experience!
 
-![Screenshot](dog.png)
 
 The Road Ahead
 
