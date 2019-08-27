@@ -1,8 +1,8 @@
 Dog breed project: this project is aimd to detect the human and dogs from images and predict the dog breed and what the closest dog human looks like .
 
 
-![alt text](/Users/abdullahalatter/D/Coursera/Udacity/blog2/github/Screen\ Shot\ 2019-08-27\ at\ 1.42.20\ PM.png)
 
+![Image](dog.png?raw=true)
 
 The Road Ahead
 
