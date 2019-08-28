@@ -1,3 +1,5 @@
+Project Overview:
+
 Dog breed project: this project is aimd to detect the human and dogs from images and predict the dog breed and what the closest dog human looks like .
 
 
@@ -29,13 +31,32 @@ installing packages:
     pip install glob
     pip install sklearn
 
-    
-Model summery :
 
+you can download the Dataset from below links:
+
+
+[dog_data_set ](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
+
+[humen_faces](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
+
+[DogVGG16Data](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz)
+   
+   
+Model summery :
+   
 ![Screenshot](model.png)
 
-    
+   
+   instructions:
+   
+    git clone https://github.com/Abdullah955/dog_breed.git
+    cd dog_breed
+    jupyter notebook dog_app.ipynb
+   
 
+
+Functions:
+to detect the humen face:
     
 The algorithm will be used to detect the human faces and dogs in an image 
 
